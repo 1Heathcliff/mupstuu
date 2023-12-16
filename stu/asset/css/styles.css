@@ -1,0 +1,144 @@
+body{
+    margin: 0;
+    padding:0 ;
+}
+.cap{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+.nav{
+    padding: 15px;
+}
+a{
+    text-decoration: none;
+    font-size: 28px;
+    color: #141954;
+    margin: 15px;
+ 
+}
+h1{
+    font-size: 40px;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.about{
+    width: 1635px;
+    height: 448px;
+    display: flex;
+    margin: 0;
+    padding: 0;
+
+}
+.about p{
+    font-size:32px ;
+    margin: 0;
+}
+.about_text{
+margin: 0;
+    display: flex;
+    flex-direction: column;
+padding-left: 50px;
+
+}
+.numbers{
+    margin: 0;
+    
+    display: flex;
+    justify-content: space-around;
+}
+.num{
+    width: 287px;
+}
+.num p{
+    font-size: 24px;
+    margin: 0;
+}
+h2{
+    margin: 0;
+    font-size: 44px;
+    color: #141954;
+    font-weight: 600;
+}
+.news{
+    width: 1500px;
+    display: flex;
+    justify-content: space-around;
+}
+.news__cart p{
+    font-size: 24px;
+    font-weight: 500;
+    margin: 0;
+    margin-top: 5px;
+}
+.news__cart{
+    width: 403px;
+    height: auto;
+   
+}
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid grey;
+
+}
+footer p{
+    font-size: 28px;
+    font-weight: 500;
+    height: 100px;
+    margin-bottom: 20px;
+}
+.main_o{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+.pred__1{
+    width: 1555px;
+    display: flex;
+}
+.pred__1 p{
+    font-size: 35px;
+    margin: 0;
+}
+.pred__2{
+    width: 1555px;
+    display: flex;
+}
+.pred__2 p{
+    font-size: 35px;
+    margin: 0;
+}
+.pred__3{
+    width: 1555px;
+    display: flex;
+}
+.pred__3 p{
+    font-size: 35px;
+    margin: 0;
+    margin-left: 15px;
+}
+.pred__4{
+    width: 1555px;
+    display: flex;
+}
+.pred__4 p{
+    font-size: 35px;
+    margin: 0;
+;
+}
